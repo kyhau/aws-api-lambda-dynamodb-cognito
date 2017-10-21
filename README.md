@@ -1,2 +1,7 @@
-# aws-api-lambda-dynamodb-cognito
-Create a service API with Amazon API Gateway backed with Lambda and DynamoDB and use Cognito User Pool Authorizer
+# Cognito activity trail (IN PROGRESS)
+
+Support logging and querying Cognito user activities (e.g. sign-up, sign-in).
+
+A service implemented with Amazon API Gateway, Lambda
+and DynamoDB with Cognito User Pool Authorizer.
+
